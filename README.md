@@ -1,4 +1,4 @@
-## Oren Hadri
+## Oren Hadry
 
 Senior software engineer with a strong focus on **systems design, execution discipline, and risk-aware engineering**.
 
