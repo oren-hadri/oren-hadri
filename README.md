@@ -41,4 +41,4 @@ This GitHub account is used to publish **self‑contained technical projects** t
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/oren-hadri/
+- LinkedIn: https://www.linkedin.com/in/oren-hadry/
